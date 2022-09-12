@@ -1,2 +1,2 @@
-# focusTimer
-Pomodoro-inspired counter
+# Focus Timer
+Pomodoro inspired counter
