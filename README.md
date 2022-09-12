@@ -1,0 +1,2 @@
+# focusTimer
+Pomodoro-inspired counter
